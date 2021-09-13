@@ -1,0 +1,9 @@
+[sessions]
+api_id = 2040
+api_hash = "b18441a1ff607e10a989891a5462e627"
+
+[flood]
+messages = ["test"]
+delay = [0, 0]
+count = 1
+trigger = "test"
